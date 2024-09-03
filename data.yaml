@@ -1,0 +1,6 @@
+train: OneDrive/Documents/yolov8_env/yolov8_flask_app/carDamage2/train/images
+val: OneDrive/Documents/yolov8_env/yolov8_flask_app/carDamage2/valid/images
+test: OneDrive/Documents/yolov8_env/yolov8_flask_app/carDamage2/test/images
+
+nc: 7
+names: ['crack_and_hole', 'medium_deformation', 'severe_deformation', 'severe_scratch', 'slight_deformation', 'slight_scratch', 'windshield_damage']
